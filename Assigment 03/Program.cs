@@ -29,6 +29,44 @@ namespace Assigment_03
             //    Console.WriteLine("Negative");
             //}
             #endregion
+
+            #region Question 03
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+            //int num3 = Convert.ToInt32(Console.ReadLine());
+            //if (num1 > num2 && num1 > num3 && num2 > num3)
+            //{
+            //    Console.WriteLine("Max Element= "+ num1);
+            //    Console.WriteLine("Min Element= "+ num3);
+            //}
+            //else if(num1 > num2 && num1 > num3 && num3 > num2)
+            //{
+            //    Console.WriteLine("Max Element= "+ num1);
+            //    Console.WriteLine("Min Element= "+ num2);
+            //}
+            //else if(num2 > num1 && num2 > num3 && num1 > num3)
+            //{
+            //    Console.WriteLine("Max Element= "+ num2);
+            //    Console.WriteLine("Min Element= "+ num3);
+            //}
+            //else if(num2 > num1 && num2 > num3 && num3 > num1)
+            //{
+            //    Console.WriteLine("Max Element= "+ num2);
+            //    Console.WriteLine("Min Element= "+ num1);
+            //}
+            //else if(num3 > num1 && num3 > num2 && num2 > num1)
+            //{
+            //    Console.WriteLine("Max Element= "+ num3);
+            //    Console.WriteLine("Min Element= "+ num1);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Max Element= "+ num3);
+            //    Console.WriteLine("Min Element= "+ num2);
+            //}
+            #endregion
+
+          
         }
     }
 }
