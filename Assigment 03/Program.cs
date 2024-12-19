@@ -98,6 +98,12 @@ namespace Assigment_03
             //}
             #endregion
 
+            #region Question 09
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(Math.Pow(num1, num2));
+            #endregion
+
            
         }
     }
