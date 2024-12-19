@@ -17,7 +17,18 @@ namespace Assigment_03
             //    Console.WriteLine("No");
             //}
             #endregion
-        
+
+            #region Question 02
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //if (num>0)
+            //{
+            //    Console.WriteLine("Positive");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Negative");
+            //}
+            #endregion
         }
     }
 }
