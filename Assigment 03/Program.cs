@@ -131,7 +131,38 @@ namespace Assigment_03
             //    Console.WriteLine("Days in month: " + "30");
             //}
             #endregion
-        
+
+            #region Question 17
+            //Console.WriteLine("Enter coordinates for three points:");
+
+            //Console.Write("x1: ");
+            //double x1 = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("y1: ");
+            //double y1 = Convert.ToDouble(Console.ReadLine());
+
+            //Console.Write("x2: ");
+            //double x2 = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("y2: ");
+            //double y2 = Convert.ToDouble(Console.ReadLine());
+
+            //Console.Write("x3: ");
+            //double x3 = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("y3: ");
+            //double y3 = Convert.ToDouble(Console.ReadLine());
+
+            //double area = 0.5 * Math.Abs(x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2));
+
+            //if (area == 0)
+            //{
+            //    Console.WriteLine("The points are on the same line.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("The points are not on the same line.");
+            //}
+            #endregion
+
+          
         }
     }
 }
