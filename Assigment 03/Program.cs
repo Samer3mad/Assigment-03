@@ -162,6 +162,31 @@ namespace Assigment_03
             //}
             #endregion
 
+            #region Question 18
+            //double time = Convert.ToDouble(Console.ReadLine());
+
+            //if (time >= 2 && time <= 3)
+            //{
+            //    Console.WriteLine("The worker is highly efficient.");
+            //}
+            //else if (time > 3 && time <= 4)
+            //{
+            //    Console.WriteLine("The worker needs to increase their speed.");
+            //}
+            //else if (time > 4 && time <= 5)
+            //{
+            //    Console.WriteLine("The worker needs training to improve their speed.");
+            //}
+            //else if (time > 5)
+            //{
+            //    Console.WriteLine("The worker must leave the company.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid input. Time should be 2 hours or more.");
+            //}
+            #endregion
+
           
         }
     }
