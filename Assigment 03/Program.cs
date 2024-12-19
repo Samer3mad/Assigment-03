@@ -198,7 +198,25 @@ namespace Assigment_03
             //Console.WriteLine(y);
             #endregion
 
-            
+            #region Question 22
+            //Point p1;
+            //p1 = new Point();
+
+            //Point p2;
+            //p2 = new Point();
+
+            //p2 = p1;
+
+            //object obj1 = new object();
+            //object obj2 = new object();
+            //obj1 = "Samer";
+            //obj2 = "Emad";
+
+            //obj2 = obj1;
+            //Console.WriteLine(obj2);
+            #endregion
+
+          
         }
     }
 }
