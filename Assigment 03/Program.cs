@@ -116,7 +116,22 @@ namespace Assigment_03
             //Console.WriteLine((total / 500) * 100);
             #endregion
 
-           
+            #region Question 11
+            //int mon=Convert.ToInt32(Console.ReadLine());
+            //if (mon == 1 || mon == 3 || mon == 5 || mon == 7 || mon == 8 || mon == 10 || mon == 12)
+            //{
+            //    Console.WriteLine("Days in month: " + "31");
+            //}
+            //else if(mon == 2)
+            //{
+            //    Console.WriteLine("Days in month: " + "29");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Days in month: " + "30");
+            //}
+            #endregion
+        
         }
     }
 }
