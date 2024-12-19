@@ -66,7 +66,19 @@ namespace Assigment_03
             //}
             #endregion
 
-          
+            #region Question 04
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //if (num % 2 == 0)
+            //{
+            //    Console.WriteLine("Even");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Odd");
+            //}
+            #endregion
+
+           
         }
     }
 }
