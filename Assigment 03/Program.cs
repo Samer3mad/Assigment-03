@@ -90,7 +90,15 @@ namespace Assigment_03
             //}
             #endregion
 
-            
+            #region Question 07
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //for (int i = 1; i <= 12; i++)
+            //{
+            //    Console.Write(num * i + " ");
+            //}
+            #endregion
+
+           
         }
     }
 }
