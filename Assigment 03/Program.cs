@@ -78,7 +78,19 @@ namespace Assigment_03
             //}
             #endregion
 
-           
+            #region Question 05
+            //char c = Convert.ToChar(Console.ReadLine());
+            //if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
+            //{
+            //    Console.WriteLine("vowel");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("consonant");
+            //}
+            #endregion
+
+            
         }
     }
 }
