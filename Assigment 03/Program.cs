@@ -104,6 +104,18 @@ namespace Assigment_03
             //Console.WriteLine(Math.Pow(num1, num2));
             #endregion
 
+            #region Question 10
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+            //int num3 = Convert.ToInt32(Console.ReadLine());
+            //int num4 = Convert.ToInt32(Console.ReadLine());
+            //int num5 = Convert.ToInt32(Console.ReadLine());
+            //int total = num1 + num2 + num3 + num4 + num5;
+            //Console.WriteLine(total);
+            //Console.WriteLine(total / 5);
+            //Console.WriteLine((total / 500) * 100);
+            #endregion
+
            
         }
     }
