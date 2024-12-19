@@ -216,7 +216,12 @@ namespace Assigment_03
             //Console.WriteLine(obj2);
             #endregion
 
-          
+            #region Questions 23, 24, 25
+            //23->b
+            //24->d
+            //25->d
+            #endregion
+        
         }
     }
 }
