@@ -187,7 +187,18 @@ namespace Assigment_03
             //}
             #endregion
 
-          
+            #region Question 21
+            //int x = 10;
+            //Console.WriteLine(x);
+
+            //int y = x;
+            //Console.WriteLine(y);
+
+            //y = 20;
+            //Console.WriteLine(y);
+            #endregion
+
+            
         }
     }
 }
